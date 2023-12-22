@@ -1,1 +1,2 @@
-使用python遇到的各种问题及解决方法。
+使用python遇到的scipy报错问题及解决方法。
+scipy和numpy+mkl版本要和python版本对应。
